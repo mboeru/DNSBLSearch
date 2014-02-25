@@ -1,7 +1,8 @@
 <?php
 
-// This array contanins known dnsbls. Feel free to add more
+
 $bls = array(
+"rbl.abuse.ro",
 "b.barracudacentral.org",
 "bl.deadbeef.com",
 "bl.emailbasura.org",
